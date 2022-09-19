@@ -21,3 +21,10 @@ ____
 <h2 align="center">Stats</h3>
 
 ![](https://komarev.com/ghpvc/?username=miahasik)
+
+____
+
+<h2 align="center">Socials</h3>
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png' alt='Телеграм' height='40'>](https://t.me/maziash)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg' alt='Вк' height='40'>](https://vk.com/xokaga)  
