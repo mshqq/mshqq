@@ -3,14 +3,10 @@
 <h1 align="center">Hi there, I'm Mikhail</h1>
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a first-year Applied Informatics student at Transbaikal State University 🇷🇺</h3>
-
 ____
-
 - 👋 Привет, я **Mtlz**
 - 👀 Увлекаюсь **Python** разработкой
 - 📫 Чтобы связаться со мной, пишите в телеграмм: **[mtlz](https://t.me/maskofmeow)**
-
-
 ____
 
 <h1 align="center">Socials</h3>
