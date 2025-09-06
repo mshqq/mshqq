@@ -15,8 +15,8 @@ ____
 
 <h1 align="center">Socials</h3>
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png' alt='Телеграм' height='40'>](https://t.me/maziash)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg' alt='Вк' height='40'>](https://vk.com/xokaga)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png' alt='Телеграм' height='40'>](https://t.me/maskofmeow)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg' alt='Вк' height='40'>](https://vk.com/mshqqqqq)  
 
 
 ____
@@ -24,16 +24,16 @@ ____
 <h1 align="center">Stats</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miahasik)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mshqq)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miahasik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshqq)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=miahasik&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshqq&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miahasik)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mshqq)  
 
-![GitHub metrics](https://metrics.lecoq.io/miahasik)  
+![GitHub metrics](https://metrics.lecoq.io/mshqq)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=miahasik)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mshqq)  
 
-![Profile views](https://gpvc.arturio.dev/miahasik)  
+![Profile views](https://gpvc.arturio.dev/mshqq)  
