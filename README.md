@@ -30,6 +30,4 @@ ____
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshqq&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mshqq)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mshqq)  
