@@ -1,4 +1,4 @@
-
+<img src="header.png" alt="альтернативный текст">
 
 <h1 align="center">Hi there, I'm Mikhail</h1>
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
