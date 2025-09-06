@@ -6,7 +6,7 @@
 
 ____
 
-- 👋 Привет, я **@Miahasik**
+- 👋 Привет, я **Mtlz**
 - 👀 Увлекаюсь **Python** разработкой
 - 📫 Чтобы связаться со мной, пишите в телеграмм: **[mtlz](https://t.me/maskofmeow)**
 
@@ -30,10 +30,6 @@ ____
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshqq&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mshqq)  
-
 ![GitHub metrics](https://metrics.lecoq.io/mshqq)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mshqq)  
-
-![Profile views](https://gpvc.arturio.dev/mshqq)  
