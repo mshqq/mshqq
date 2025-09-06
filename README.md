@@ -2,14 +2,13 @@
 
 <h1 align="center">Hi there, I'm Mikhail</h1>
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm first-year student of Siberian State University Of Telecommunications and Information Science 🇷🇺</h3>
+<h3 align="center">I'm a first-year Applied Informatics student at Transbaikal State University 🇷🇺</h3>
 
 ____
 
 - 👋 Привет, я **@Miahasik**
 - 👀 Увлекаюсь **Python** разработкой
-- 🌱 В данный момент веду проект по разработке **бота для ВК на Python**
-- 📫 Чтобы связаться со мной, пишите в телеграмм: **@mshqqqqq**
+- 📫 Чтобы связаться со мной, пишите в телеграмм: **[mtlz](https://t.me/maskofmeow)**
 
 
 ____
