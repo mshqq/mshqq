@@ -46,6 +46,13 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
     </td>
+        <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" width="50"/><br>Django
+    </td>
+    </td>
+        <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" width="50"/><br>SQLite
+    </td>
   </tr>
 </table>
 
