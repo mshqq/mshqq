@@ -1,90 +1,86 @@
-<!-- HEADER -->
+![header](header.png)
+
+<h1 align="center">Привет, я Михаил 👋</h1>
+
 <p align="center">
-  <img src="header.png" alt="header" width="100%" style="border-radius:12px;"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30"/>
 </p>
 
-<h1 align="center">Hi there, I'm Mikhail 👋</h1>
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  Студент направления <b>ИИ и прикладная информатика в цифровой экономике</b><br>
+  Забайкальский государственный университет 🇷🇺
 </p>
-<h3 align="center">First-year Applied Informatics student at Transbaikal State University 🇷🇺</h3>
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center">About Me</h2>
+## 👨‍💻 Обо мне
 
-- 👋 Привет, я **Mtlz**  
-- 👀 Увлекаюсь **Python** разработкой  
-- 📫 Связаться: [Telegram](https://t.me/maskofmeow)  
+- 🎓 Учусь на **1 курсе**, специализация — **ИИ и прикладная информатика в цифровой экономике**
+- 🐍 Увлекаюсь **Python**-разработкой: пишу desktop-приложения и изучаю алгоритмы
+- 🤖 Интересуюсь **искусственным интеллектом** и его практическим применением
+- 💡 Люблю разбираться в том, как устроены вещи изнутри
+- 📫 Связаться: [Telegram](https://t.me/maskofmeow)
 
 ---
 
-<!-- SOCIALS -->
-<div align="center">
-  <h2>Socials</h2>
+## 🎯 Цели и планы
+
+- 📚 Углубиться в **машинное обучение** и нейронные сети
+- 🛠️ Развивать навыки в разработке приложений на Python
+- 🌐 Изучить веб-разработку глубже (Django, REST API)
+- 🚀 Участвовать в реальных проектах и хакатонах
+
+---
+
+## 🚀 Мои проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [PyCards](https://github.com/mshqq/PyCards) | Desktop-приложение для обучения методом интервальных повторений (аналог Anki). Реализован алгоритм SM-2, импорт из CSV, SQLite | Python, Tkinter, SQLite |
+
+---
+
+## 🛠️ Навыки
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Контакты
+
+<p>
   <a href="https://t.me/maskofmeow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="Telegram" height="40"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://vk.com/mshqqqqq">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" height="40"/>
+    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
-<!-- SKILLS -->
-<h2 align="center">Skills</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
-    </td>
-        <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" width="50"/><br>Django
-    </td>
-    </td>
-        <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" width="50"/><br>SQLite
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mshqq&theme=tokyonight&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mshqq&show_icons=true&theme=radical" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshqq&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshqq&theme=radical" />
+</p>
 
 ---
 
-<!-- STATS -->
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mshqq&theme=tokyonight&margin-w=10" alt="Trophies"/>
-    </a>
-  </div>
-  <br>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=mshqq&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </a>
-  </div>
-  <br>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshqq&layout=compact&theme=radical" alt="Top Languages"/>
-    </a>
-  </div>
-  <br>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshqq&theme=radical" alt="GitHub Streak"/>
-  </div>
-</div>
-
----
-
-<!-- FOOTER -->
 <p align="center">Made with ❤️ by Mikhail</p>
