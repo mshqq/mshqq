@@ -35,4 +35,4 @@
 
 ## Контакты
 
-- Telegram: `@mshqqqqq`
+- Telegram: [линк](https://t.me/maskofmeow)
